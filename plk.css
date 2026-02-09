@@ -4,7 +4,11 @@
     box-sizing: border-box;
 }
 
-#a1{
+.registration{
+    font-size:2em;
+}
+
+/* #a1{
     height:12px;
     width:20px;
     border:2px solid black;
@@ -15,4 +19,4 @@
     width:20px;
     border:2px solid black;
     font-size:12px;
-}
+} */
