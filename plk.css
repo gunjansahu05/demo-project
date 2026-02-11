@@ -4,19 +4,34 @@
     box-sizing: border-box;
 }
 
-.registration{
-    font-size:2em;
+.main{
+    height:1000px;
+    width:50%;
+    border: 2px solid black;
+    margin-left:25%;
+    
+
 }
 
-/* #a1{
-    height:12px;
-    width:20px;
-    border:2px solid black;
-    font-size:12px;
+.main2{
+    height:950px;
+    width:90%;
+    border:2px solid transparent;
+    margin:3.5%;
+    margin-left:4%;
 }
-#b1{
-     height:12px;
-    width:20px;
-    border:2px solid black;
-    font-size:12px;
-} */
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow:2px 2px 4px red;
+    color:white
+}
+.name{
+    display:flex;
+   gap:4%;
+}
+
+#a2{
+    font-size:20px;
+}
+
